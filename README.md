@@ -21,8 +21,10 @@
 
 Aplicação desenvolvida durante o Ignite Lab promovido pela Rocketseat. Objetivo da aplicação é desenvolver um design system com tecnologias modernas de UI/UX.
 Além disso, foi utilizou-se os componentes desenvolvidos em uma tela de login simples.
-[Storybook](https://brunocs90.github.io/ignite-lab-design-system/?path=/story/components-button--default).
-Template utilizado para o desenvolvimento dos componentes [Figma](https://www.figma.com/file/oDZgkKwQGeVnUDukxRLZC6/Ignite-Lab-Desing-System?node-id=0%3A1).
+
+[Documentação Storybook](https://brunocs90.github.io/ignite-lab-design-system/?path=/story/components-button--default).
+
+[Template Figma](https://www.figma.com/file/oDZgkKwQGeVnUDukxRLZC6/Ignite-Lab-Desing-System?node-id=0%3A1).
 
 ## 🚀 Tecnologias
 
