@@ -58,7 +58,7 @@ npm i phosphor-react
 
 ## 📥 Instalação
 
-Faça um clone desse repositório e acesse o diretório. Em seguida acesse o seguinte endereço: [Storybook deployer](https://github.com/storybookjs/storybook-deployer) e rode o comando abaixo:
+Faça um clone desse repositório e acesse o diretório. Em seguida acesse o endereço [Storybook deployer](https://github.com/storybookjs/storybook-deployer) para mais informações sobre os comandos abaixo:
 
 ```
 npm i @storybook/storybook-deployer --save-dev
