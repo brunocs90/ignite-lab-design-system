@@ -55,6 +55,12 @@ npm install @radix-ui/react-slot @radix-ui/react-checkbox
 ```
 npm i phosphor-react
 ```
+- [a11y](https://storybook.js.org/addons/@storybook/addon-a11y) utilizado para verificar a acessibilidade da aplicação.
+
+```
+npm install @storybook/addon-a11y
+```
+- [Transform tool](https://transform.tools/) utilizado para converter um svg em componente React.
 
 ## 📥 Instalação
 
@@ -74,13 +80,7 @@ Para gerar os arquivos estáticos de build
 npm build-storybook
 ```
 
-[a11y](https://storybook.js.org/addons/@storybook/addon-a11y) utilizado para verificar a acessibilidade da aplicação.
 
-```
-npm install @storybook/addon-a11y
-```
-
-[Transform tool](https://transform.tools/) - Utilizado para converter um svg em componente React
 
 
 ## :memo: Licença
