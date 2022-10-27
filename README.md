@@ -83,6 +83,10 @@ Para gerar os arquivos estáticos de build
 npm run build-storybook
 ```
 
+Deploy de alterações do storybook
+```
+npm run deploy-storybook
+
 
 
 
