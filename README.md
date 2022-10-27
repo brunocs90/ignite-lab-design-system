@@ -80,7 +80,7 @@ Adicionar o seguinte script no package.json para fazer deploy no GitHub Pages
 
 Para gerar os arquivos estáticos de build
 ```
-npm build-storybook
+npm run build-storybook
 ```
 
 
