@@ -14,10 +14,10 @@ export function SignIn() {
 	async function handleSignIn(event: FormEvent) {
 		event.preventDefault();
 
-		await axios.post("/sessions", {
-			email: "diego@rocketseat.com.br",
-			password: "12345678",
-		});
+		// await axios.post("/sessions", {
+		// 	email: "diego@rocketseat.com.br",
+		// 	password: "12345678",
+		// });
 
 		setIsUserSignedIn(true);
 	}
